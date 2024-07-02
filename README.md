@@ -3,8 +3,9 @@ Examining Time Series Forecasting Approaches for Predicting Canadian Employment 
 
 # Data Files
 ### *The data used for the models can be found here:*
-### https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410042601
-### https://www150.statcan.gc.ca/t1/tbl1/en/cv.action?pid=1410002301
+https://drive.google.com/file/d/1-jV5T0AnwIP5hif418-eykQGMWdT3ZYD/view?usp=drive_link
+https://drive.google.com/file/d/1h-IQSK-YRBwkyasyJsfX56jIzjcepYHf/view?usp=drive_link
+
 
 
 
