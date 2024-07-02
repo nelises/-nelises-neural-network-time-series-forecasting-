@@ -2,7 +2,7 @@
 Examining Time Series Forecasting Approaches for Predicting Canadian Employment Trends
 
 # Data Files
-The data files were too large to upload, so all raw and cleaned data files can be found here:
+### *All raw and cleaned data files can be found here:*
 https://drive.google.com/drive/folders/1zanDyYFgwNVNAKwYVCsdnUYk7KBnDF0v?usp=sharing
 
 ### *The original tables can be found at:*
