@@ -2,13 +2,8 @@
 Examining Time Series Forecasting Approaches for Predicting Canadian Employment Trends
 
 # Data Files
-### *The data used for the models can be found here:*
-https://drive.google.com/file/d/1-jV5T0AnwIP5hif418-eykQGMWdT3ZYD/view?usp=drive_link
-
-https://drive.google.com/file/d/1h-IQSK-YRBwkyasyJsfX56jIzjcepYHf/view?usp=drive_link
-
-
-
+The data files were too large to upload, so all raw and cleaned data files can be found here:
+https://drive.google.com/drive/folders/1zanDyYFgwNVNAKwYVCsdnUYk7KBnDF0v?usp=sharing
 
 ### *The original tables can be found at:*
 Statistics Canada. Table 14-10-0426-01  Employee wages by occupation, monthly, unadjusted for seasonality. DOI: https://doi.org/10.25318/1410042601-eng
